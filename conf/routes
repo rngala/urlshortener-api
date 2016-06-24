@@ -1,0 +1,7 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# An example controller showing a sample home page
+GET     /:alias                     controllers.HomeController.get(alias)
+POST    /                           controllers.HomeController.create
