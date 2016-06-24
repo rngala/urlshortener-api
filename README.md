@@ -1,7 +1,7 @@
 URL Shortener API
 =================
 
-Stores and retrieve short URLs.
+Stores and retrieves short URLs.
 
 API Documentation
 -----------------
