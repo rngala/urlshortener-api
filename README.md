@@ -21,7 +21,7 @@ Location: http://www.nubank.com.br/
 
 **Request:**
 
-Shorts an URL an returns the
+Shortens a URL and returns the
 
 ```json
 {"url":"http://www.nubank.com.br"}
